@@ -1,0 +1,23 @@
+*{
+    box-sizing:border-box ;
+}
+body{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+.container{
+    display: flex;
+    width:90vw;
+
+}
+.panel{
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 80vh;
+}
